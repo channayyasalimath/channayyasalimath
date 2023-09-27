@@ -1,7 +1,7 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://channayyasalimath.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2000_600px.gif)](https://channayyasalimath.io)
 <h1 align="center">Hi 👋, I'm Channayya Salimath</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="center" alt="developer" width="400"src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+<img align="right" alt="developer" width="400"src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=channayyasalimath&label=Profile%20views&color=0e75b6&style=flat" alt="channayyasalimath" /> </p>
 
