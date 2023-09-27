@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e))](https://channayyasalimath.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://channayyasalimath.io)
 <h1 align="center">Hi 👋, I'm Channayya Salimath</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="center" alt="developer" width="400"src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
